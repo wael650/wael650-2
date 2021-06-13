@@ -1,0 +1,272 @@
+body{
+  margin: 0;
+  font-family: 'Big Shoulders Stencil Display', cursive;
+  text-align: center;
+  background-color: #fdfaf6;
+}
+h1{
+  margin-top: 0px;
+  color : #323232;
+  margin: 0;
+  font-size: 6em;
+  text-align: center;
+}
+.disclaimer{
+  margin: 0;
+  font-size: 2em;
+}
+.Main-text{
+  display: inline-block;
+  font-family: 'Monda', sans-serif;
+  padding: 90px 0 0 0 ;
+  margin: 0;
+  height: 100px;
+}
+.downarrow{
+position: absolute;
+display: inline;
+height: 250px;
+width : 250px;
+left: 100px;
+bottom: 60px;}
+.downarrow1{
+  position: absolute;
+  display: inline;
+  height: 250px;
+  width : 250px;
+  right: 100px;
+  bottom: 60px;}
+}
+.Main-description{
+  display: inline-block;
+  margin: 0;
+  font-family: 'Monda', sans-serif;
+  letter-spacing: 2px;
+  font-size: 25px;
+}
+.building{
+  position: absolute;
+  height : 100px;
+  width : 100px ;
+  right : 625%;
+  bottom : 75px;
+}
+.first-box{
+  background-color: #ffe8d6 ;
+  height: 1100px;
+  position: relative;
+  display: block;
+  text-align: center;
+
+}
+.hr{
+  border-style: dotted none none none;
+  margin-top : 20px;
+  width : 25%;
+  height : 1px;
+  border-width: 15px;
+  color: #c8c2bc;
+}
+.subbox{
+  padding-top: 200px;
+}
+.html{
+  display: inline-block;
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  right : 25px;
+  top: 15px;
+}
+.css{
+  display: inline-block;
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  left : 25px;
+  top: 15px;
+}
+.disclaimer{
+  padding-top: 15px;
+  font-family: 'Bilbo Swash Caps', cursive;
+}
+.pp{
+  padding-top: 75px;
+  height : 400px;
+  width : 400px;
+}
+.wael{
+    font-family: 'Monda', sans-serif;
+
+}
+.firstgame{
+  position: relative;
+  text-align: center;
+}
+.fornite{
+  font-size: 15px;
+  text-decoration: none;
+  color: black;}
+.minecraft{
+  font-size: 15px;
+  text-decoration: none;
+  color: black;
+}
+.nms{
+  font-size: 15px;
+  text-decoration: none;
+  color: black;}
+.my-description{
+  width : 500px;
+  display: inline-block;
+  text-align: center;
+}
+a:hover{
+  color : #ffe8d6;
+}
+
+}
+p{font-size: 20px;}
+.where-i-played{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 50px;
+  text-shadow:2px 2px #ffe8d6;
+}
+.console-box{
+  position: relative;
+  background-color: #ffe8d6;
+  width : 80%;
+  height : 800px;
+  margin: 10%;
+  margin-top: 5%;
+  margin-bottom: 0;
+}
+.ps5{
+  position: absolute;
+  height: 80px;
+  width : 200px;
+  right: 75px;
+  top: 350px;
+}
+.ps4{
+  position: absolute;
+  display: inline-block;
+  left:100px;
+  top:250px;
+  height: 100px;
+  width:120px;
+}
+.ps2{
+  position: absolute;
+  display: inline-block;
+  left: 50;
+  bottom: 50;
+  height: 250px;
+  width: 250px;
+}
+.ps{
+  position: absolute;
+  display: inline-block;
+  left: 100px;
+  bottom: 50px;
+  height: 250px;
+  width: 250px;
+}
+.psvita{
+  position: absolute;
+  display: inline-block;
+  left: 400px;
+  bottom: 400px;
+  height: 250px;
+  width: 250px;
+
+}
+.xbox360{
+  position: absolute;
+  display: inline-block;
+  right: 400px;
+  top : 300px;
+  height: 250px;
+  width: 250px;
+}
+.psp{
+  position: absolute;
+  display: inline-block;
+  left: 52px;
+  top: 10px;
+  height: 250px;
+  width: 250px;
+}
+.gameboy{
+  position: absolute;
+  display: inline-block;
+  right: 100px;
+  bottom : 100px;
+  height: 250px;
+  width: 250px;
+}
+.kinect{
+  position: absolute;
+  display: inline-block;
+  left: 40%;
+  bottom: 2%;
+  height: 140px;
+  width: 140px;
+}
+.bottom-box{
+  width:100%;
+  height: 100px;
+  background-color: #ffe8d6;
+  position: relative;
+  text-align: center;
+
+
+
+
+}
+.Copyright{
+  position: relative;
+  display: inline-block;
+  top: 5px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 30px;
+  color : #aaaaaa;
+  letter-spacing: 3px;
+
+
+}
+.btn {
+  background: #ffe8d6;
+  background-image: -webkit-linear-gradient(top, #ffe8d6, ffe8d6);
+  background-image: -moz-linear-gradient(top, #ffe8d6, ffe8d6);
+  background-image: -ms-linear-gradient(top, #ffe8d6, ffe8d6);
+  background-image: -o-linear-gradient(top, #ffe8d6, ffe8d6);
+  background-image: linear-gradient(to bottom, #ffe8d6, ffe8d6);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 36px;
+  background: ffe8d6;
+  padding: 10px 20px 10px 20px;
+  border: solid #000000 6px;
+  text-decoration: none;
+  margin: 50px;
+  display: inline-block;
+  right:50%
+
+}
+
+.btn:hover {
+    background-color: #d6b769;
+    text-decoration: none;
+  }
+}
+.name{
+  position: relative;
+}
+
+
+}
